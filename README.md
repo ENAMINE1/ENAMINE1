@@ -1,21 +1,4 @@
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ENAMINE1&show_icons=true&theme=dark" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ENAMINE1&layout=compact&theme=dark" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://gpvc.arturio.dev/ENAMINE1" />
-</p>
-
-****
-<p align="center">
-Readme stats displayed using https://github.com/anuraghazra/github-readme-stats.
-</p>
-
-<p align="center">
     <a href="https://wakatime.com/@betaThetha"><img src="https://wakatime.com/badge/user/ea16762b-aa50-4142-8fd0-b4683ff2bed6.svg" alt="Total time coded since Apr 7 2022" /></a>
     <a href="https://github.com/ENAMINE1/">
       <img alt="Visitors" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FUtsavMehta19021212%2Fhit-counter" />
@@ -39,6 +22,3 @@ Readme stats displayed using https://github.com/anuraghazra/github-readme-stats.
   </tr>
 </table>
 <br>
-
-
-[![@betathetha's Holopin board](https://holopin.me/betathetha)](https://holopin.io/@betathetha)
