@@ -1,13 +1,3 @@
-<p align="center">
-    <a href="https://wakatime.com/@betaThetha"><img src="https://wakatime.com/badge/user/ea16762b-aa50-4142-8fd0-b4683ff2bed6.svg" alt="Total time coded since Apr 7 2022" /></a>
-    <a href="https://github.com/ENAMINE1/">
-      <img alt="Visitors" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FUtsavMehta19021212%2Fhit-counter" />
-    </a>
-    <br />
-    <br />
-    </a>
-  </p>
-
 <table style="width:100%">
 <tr>
     <td align="center" colspan="2"><img src="http://github-readme-streak-stats.herokuapp.com?user=ENAMINE1&theme=blue-green&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></td>
