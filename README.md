@@ -8,7 +8,7 @@
   </tr>
   <tr>
   <tr>
-    <td><img width="766em" src="https://github-profile-trophy.vercel.app/?username=ENAMINE1&theme=discord&no-frame=true&row=1&column=7" /></td>
+      <td align="center"><img width="766em" src="https://github-profile-trophy.vercel.app/?username=ENAMINE1&theme=discord&no-frame=true&row=1&column=7" /></td>
   </tr>
 </table>
 <br>
