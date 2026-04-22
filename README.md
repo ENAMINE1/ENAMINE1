@@ -6,24 +6,12 @@ I'm a developer interested in systems, problem solving, and building tools that 
 
 - 🧠 Building a system to track and analyze competitive programming progress across platforms  
 - ⚙️ Exploring low-level systems (file systems, databases, performance)  
-- 🎮 Learning Unity with a focus on physics simulation and motion  
 
 ## 🧩 Areas of Interest
 
 - Algorithms & Data Structures  
 - Systems Design & Optimization  
 - In-memory databases & storage systems  
-- Game physics and simulation  
-
-## 📊 Competitive Programming
-
-I actively solve problems across platforms like:
-- Codeforces
-- LeetCode
-- CodeChef
-- AtCoder
-
-*(Working on a unified tracker to visualize progress, patterns, and learning insights)*
 
 ## 🛠️ Tech Stack
 
